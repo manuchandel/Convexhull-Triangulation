@@ -15,4 +15,4 @@ monotone partitions considering the following instructions:
 
 * For demo purposes just download the Application.jar file and run it on any machine with java pre-installed. For linux based systems change the permission of the file to executable.
 * For development purposes import project folder using eclipse.
-* MD5 checksum of file is ...
+* MD5 checksum of file is cdf31b54506b5a37bf9002e358f22045
