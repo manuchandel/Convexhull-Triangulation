@@ -1,4 +1,4 @@
-## Convexhull - Triangulation
+# Convexhull - Triangulation
 
 * This repository contains my computational geometry project.
 * I did this project as a part of computational geometry course in 4th year.
